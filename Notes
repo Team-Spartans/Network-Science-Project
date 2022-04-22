@@ -14,3 +14,23 @@ Given the wide variation in word properties, the norms are used for constructing
 some properties while holding other properties constant.
 
 ###########################################################################################################################################################
+
+Fields that seem to be useful
+
+* CUE	Normed Word
+* TARGET	Response to Normed Word
+* NORMED?	Is Response Normed?
+* \#G	Group size
+* \#P	Number of Participants Producing Response
+* FSG	Forward Cue-to-Target Strength
+* BSG	Backward Target-to-Cue Strength
+* MSG	Mediated Strength
+* QH	Cue is a Homograph?
+* QPS	Cue: Part of Speech
+* QH	Cue is a Homograph?
+* QPS	Cue: Part of Speech
+
+###########################################################################################################################################################
+
+
+
