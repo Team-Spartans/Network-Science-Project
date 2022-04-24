@@ -56,3 +56,10 @@ and backward (from target-to-cue) strengths.
 Raghav's Definition --> If FSG and BSG are present then the data is normed and if not then it is not normed.
 ###########################################################################################################################################################
 
+Filters for the dataset
+* Consider only Nouns, Adjectives and verbs for the CUES
+* Filter the dataset for BSG to be 0
+* The number of participants are greater than 2
+* The Normed column is filtered to "YES"
+
+###########################################################################################################################################################
